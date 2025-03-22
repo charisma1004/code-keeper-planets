@@ -16,7 +16,7 @@ Exoplanet Explorer is a simple Next.js application that allows users to submit a
 - **Frontend**: Next.js, React
 - **Styling**: Tailwind CSS
 - **State Management**: React state
-- **Backend**: Local storage 
+- **Backend**: Firebase (Firestore for data storage)
 - **Deployment**: Vercel 
 - **Containerization**: Docker 
 
