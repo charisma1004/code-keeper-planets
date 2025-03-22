@@ -24,7 +24,7 @@ Exoplanet Explorer is a simple Next.js application that allows users to submit a
 To run the application locally, follow these steps:
 
 1. **Clone this repository**:
-   ```bash
+   ```shell
    git clone https://github.com/charisma1004/code-keeper-planets.git
    ```
 2. **Install Dependencies:**
