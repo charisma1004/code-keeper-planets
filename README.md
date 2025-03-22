@@ -1,6 +1,6 @@
-# Exoplanet Explorer     Ahmed Zaky  Italy
+# Exoplanet Explorer   by  Ahmed Zaky  Italy
 
-**live demo: [https://wc-react-todo-app.netlify.app/](https://wc-react-todo-app.netlify.app/)**
+**live demo: [https://code-keeper-planets.vercel.app/login](https://code-keeper-planets.vercel.app/login)**
 
 ## Overview
 Exoplanet Explorer is a simple Next.js application that allows users to submit and explore exoplanets—planets that exist outside our solar system. Users can add new exoplanet entries, search for them, and view detailed information. The application is designed to be responsive and user-friendly.
